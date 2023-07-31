@@ -1,0 +1,209 @@
+[
+    {
+        "question": "In care dintre situatii se suspenda exercitarea dreptului de a conduce?",
+        "optionA": "In cazul depasirii in mod repetat a vitezei maxime legale",
+        "optionB": "In cazul neopririi la semnalul agentului de cale ferata",
+        "optionC": "In cazul neprezentarii in termen de 24 de ore la unitatea de politie in cazul unui accident provocat",
+        "answer": "In cazul neprezentarii in termen de 24 de ore la unitatea de politie in cazul unui accident provocat"
+    },
+
+    {
+        "question": "Marcajul aplicat pe marginea din dreapta a partii carosabile, format dintr-o linie in zig-zag, semnifica:",
+        "optionA": "Interzicerea stationarii",
+        "optionB": "interzicerea opririi",
+        "optionC": "Alte pericole",
+        "answer": "Interzicerea stationarii"
+    },
+
+    {
+        "question": "In ce situatii nu va este permisa depasirea?",
+        "optionA": "Cand un autobuz se afla oprit in statie",
+        "optionB": "Pe un drum in rampa cand vizibilitatea este sub 50m",
+        "optionC": "Intr-o intersectie nedirijata",
+        "answer": "Intr-o intersectie nedirijata"
+    },
+
+    {
+        "question": "Victima care a pierdut mult sange trebuie sa fie asezata:",
+        "optionA": "Cu fata in sus",
+        "optionB": "Cu fata in jos",
+        "optionC": "Cu picioarele situate mai sus decat nivelul capului",
+        "answer": "Cu picioarele situate mai sus decat nivelul capului"
+    },
+
+    {
+        "question": "Ce inseamna sa conduceti preventiv pe timp nefavorabil?",
+        "optionA": "Sa respectati limitele de viteza",
+        "optionB": "Sa va reduceti viteza in limite de siguranta",
+        "optionC": "Sa rulati cat mai aproape de axul drumului",
+        "answer": "Sa va reduceti viteza in limite de siguranta"
+    },
+
+    {
+        "question": "Termostatul apartine instalatiei de:",
+        "optionA": "Racire",
+        "optionB": "Ungere",
+        "optionC": "Alimentare",
+        "answer": "Racire"
+    },
+
+    {
+        "question": "In care dintre urmatoarele situatii va este interzis sa efectuati depasirea:",
+        "optionA": "Pe drumurile cu o singura banda de circulatie pe sens",
+        "optionB": "La mai putin de 150 m de trecerile la nivel cu calea ferata",
+        "optionC": "In zona de actiune a indicatorului Depasirea interzisa",
+        "answer": "Racire"
+    },
+
+    {
+        "question": "Punctele de penalizare se aplica pentru:",
+        "optionA": "Nerespectarea semnificatiei indicatorului Copii",
+        "optionB": "Nerespectarea semnificatiei indicatorului Drum cu denivelari",
+        "optionC": "Nerespectarea semnificatiei indicatorului Oprire amplasat la trecerea cu o cale ferata",
+        "answer": "Nerespectarea semnificatiei indicatorului Oprire amplasat la trecerea cu o cale ferata"
+    },
+
+    {
+        "question": "Ce obligatii are conducatorul unui autovehicul imobilizat intr-un pasaj subteran?",
+        "optionA": "Sa opreasca motorul si sa actioneze luminile de avarie",
+        "optionB": "Sa tracteze autovehiculul pana la iesirea din pasajul subteran",
+        "optionC": "Sa anunte imediat pompierii in legatura cu locul unde se afla",
+        "answer": "Intr-o intersectie nedirijata"
+    },
+
+    {
+        "question": "Oprirea voluntara a unui vehicul este interzisa:",
+        "optionA": "Pe drumurile cu un singur sens de circulatie",
+        "optionB": "Pe drumurile cu o latime mai mica de 6m",
+        "optionC": "In locurile unde s-ar impiedica vizibilitatea unui indicator",
+        "answer": "In locurile unde s-ar impiedica vizibilitatea unui indicator"
+    },
+
+    {
+        "question": "Care este semnalizarea specifica mersului inapoi?",
+        "optionA": "Claxonatul intermitent cu scop de atentionare",
+        "optionB": "Semnalizarea cu luminile de mers inapoi dotate vehiculului",
+        "optionC": "Folosirea luminilor de avarie",
+        "answer": "Semnalizarea cu luminile de mers inapoi dotate vehiculului"
+    },
+
+    {
+        "question": "Ce pericole pot aparea prin nefolosirea centurii de siguranta?",
+        "optionA": "Chiar si la o viteza mica exista riscul unei accidentari",
+        "optionB": "Pericolele apar doar la o viteza de peste 60km/h",
+        "optionC": "Pericolul de accidentare este exclus",
+        "answer": "Chiar si la o viteza mica exista riscul unei accidentari"
+    },
+
+    {
+        "question": "Ce trebuie sa contina biletul care se prinde langa garoul aplicat unei persoane ranite?",
+        "optionA": "Datele de stare civila a persoanei",
+        "optionB": "Pozitia in care a fost gasita victima",
+        "optionC": "Ora si minutul aplicarii garoului",
+        "answer": "Ora si minutul aplicarii garoului"
+    },
+
+    {
+        "question": "Unui autovehicul/tractor agricol sau forestier nu-i este permis sa circule atunci cand:",
+        "optionA": "Unul dintre faruri nu functioneaza",
+        "optionB": "Parbrizul este fisurat",
+        "optionC": "Noxele emanate depasesc limita legala admisa",
+        "answer": "Noxele emanate depasesc limita legala admisa"
+    },
+
+    {
+        "question": "Care sunt factorii care fac ca motorul diesel al unui autoturism sa emita fum excesiv?",
+        "optionA": "Lipsa combustibilului",
+        "optionB": "Defectiuni la instalatia de injectie",
+        "optionC": "Busonul rezervorului inchis la maximum",
+        "answer": "Defectiuni la instalatia de injectie"
+    },
+
+    {
+        "question": "Viteza de deplasare trebuie redusa:",
+        "optionA": "La intalnirea indicatorului Cedeaza trecerea",
+        "optionB": "La intalnirea indicatorului Prioritate fata de circulatia din sens invers",
+        "optionC": "La semnalul verde al semaforului",
+        "answer": "La intalnirea indicatorului Cedeaza trecerea"
+    },
+
+    {
+        "question": "Intoarcerea este interzisa:",
+        "optionA": "In rampa daca vizibilitatea este sub 50m",
+        "optionB": "Ambele raspunsuri sunt corecte",
+        "optionC": "La trecerile pentru pietoni",
+        "answer": "Ambele raspunsuri sunt corecte"
+    },
+
+    {
+        "question": "In intersectii au prioritate de trecere vehiculele care intalnesc unul dintre indicatoarele:",
+        "optionA": "Intersectie cu un drum fara prioritate",
+        "optionB": "Inainte",
+        "optionC": "Circulatie in ambele sensuri",
+        "answer": "Intersectie cu un drum fara prioritate"
+    },
+
+    {
+        "question": "Stationarea este interzisa:",
+        "optionA": "In zona de actiune a indicatorului Circulatie in ambele sensuri",
+        "optionB": "Pe sectoarele de drum unde este interzisa depasirea prin indicator",
+        "optionC": "Pe partea carosabila a drumurilor nationale",
+        "answer": "Pe sectoarele de drum unde este interzisa depasirea prin indicator"
+    },
+
+    {
+        "question": "Conduceti un vehicul/tractor agricol pe drumurile publice si refuzati recoltarea unor probe biologice in vederea stabilirii alcoolemiei. Veti fi pedepsit penal?",
+        "optionA": "Da",
+        "optionB": "Doar daca sunteti implicat intr-un accident de circulatie",
+        "optionC": "Nu",
+        "answer": "Da"
+    },
+
+    {
+        "question": "In care dintre situatii consumul de carburant creste?",
+        "optionA": "Atunci cand motorul nu atinge temperatura de functionare",
+        "optionB": "Atunci cand motorul functioneaza cu intreruperi",
+        "optionC": "Ambele raspunsuri sunt corecte",
+        "answer": "Ambele raspunsuri sunt corecte"
+    },
+
+    {
+        "question": "Intoarcerea este interzisa:",
+        "optionA": "Pe strazile cu sens unic",
+        "optionB": "In apropierea trecerilor de pietoni",
+        "optionC": "La mai putin de 100m de o trecere la nivel cu calea ferata",
+        "answer": "Pe strazile cu sens unic"
+    },
+
+    {
+        "question": "Care sunt criteriile de apreciere a eficacitatii franelor?",
+        "optionA": "Spatiul de franare",
+        "optionB": "Forma pedalei",
+        "optionC": "Marimea urmei de franare pe carosabil",
+        "answer": "Spatiul de franare"
+    },
+
+    {
+        "question": "Va este permis sa claxonati un biciclist inainte de a-l depasi?",
+        "optionA": "Da daca distanta este de cel putin 25m",
+        "optionB": "Nu",
+        "optionC": "Numai in reprize foarte scurte",
+        "answer": "Da daca distanta este de cel putin 25m"
+    },
+
+    {
+        "question": "Cauzele ce pot determina cresterea nivelului de ulei in baia de ungere sunt:",
+        "optionA": "Circulatia frecventa pe drumurile neasfaltate",
+        "optionB": "Patrunderea apei sau a combustibilului in baia de ulei",
+        "optionC": "Defectarea pompei de ulei",
+        "answer": "Patrunderea apei sau a combustibilului in baia de ulei"
+    },
+
+    {
+        "question": "Oprirea este interzisa:",
+        "optionA": "La mai putin de 25m de coltul unei intersectii",
+        "optionB": "In zona de actiune a indicatorului Stationarea interzisa",
+        "optionC": "La 50m distanta fata de garaj",
+        "answer": "La mai putin de 25m de coltul unei intersectii"
+    }
+]

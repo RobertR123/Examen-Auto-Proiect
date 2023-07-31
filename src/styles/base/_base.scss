@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.toast-invalid {
+    background-color: red !important;
+    border-radius: 5px; 
+    color: whitesmoke;
+}
+
+.toast-valid {
+    background-color: green !important;
+    border-radius: 5px; 
+    color: whitesmoke;
+}
